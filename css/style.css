@@ -1,0 +1,48 @@
+
+body{
+    margin:0;
+    color:white;
+    font-size:20px;
+    background-color:#edf7fa;
+}
+.logo{
+  margin:40px 0 0 40px;
+}
+.illustration{
+  float:left;
+  margin:20px 40px 0 40px;
+  width:800px;
+}
+.first-div{
+  width:1440px;
+  height:650px;
+    background-color:hsl(257, 40%, 49%);
+    margin:0 auto 0 auto;
+}
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight:700px;
+  padding-top:100px;
+  margin-right:40px;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight:700px;
+}
+button{
+  padding:10px 30px 10px 30px;
+  border-radius:20px;
+  size:15px;
+  color:blue;
+}
+.icon{
+  width:40px;
+  height:40px;
+  background-color:hsl(257, 40%, 49%);
+  margin:4px;
+}
+.contact{
+  position:absolute;
+  right:100px;
+  bottom:20px;
+}
