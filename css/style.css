@@ -29,11 +29,20 @@ p{
   font-family: 'Open Sans', sans-serif;
   font-weight:700px;
 }
+
 button{
   padding:10px 30px 10px 30px;
-  border-radius:20px;
-  size:15px;
-  color:blue;
+  border-radius:10px;
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+button:hover{
+    background-color: aqua;
 }
 .icon{
   width:40px;
